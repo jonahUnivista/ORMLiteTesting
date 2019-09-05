@@ -1,0 +1,8 @@
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\bin\Debug\netcoreapp2.1\ORMLiteTesting.deps.json
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\bin\Debug\netcoreapp2.1\ORMLiteTesting.runtimeconfig.json
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\bin\Debug\netcoreapp2.1\ORMLiteTesting.runtimeconfig.dev.json
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\bin\Debug\netcoreapp2.1\ORMLiteTesting.dll
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\obj\Debug\netcoreapp2.1\ORMLiteTesting.csprojAssemblyReference.cache
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\obj\Debug\netcoreapp2.1\ORMLiteTesting.csproj.CoreCompileInputs.cache
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\obj\Debug\netcoreapp2.1\ORMLiteTesting.AssemblyInfoInputs.cache
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\ORMLiteTesting\ORMLiteTesting\obj\Debug\netcoreapp2.1\ORMLiteTesting.AssemblyInfo.cs
